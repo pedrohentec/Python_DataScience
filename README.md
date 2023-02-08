@@ -52,8 +52,6 @@ No módulo 4, hora de ter o primeiro contato com o famoso <b>Machine Learning</b
 
 ## Formação Data Science
 
-#
-
 - 1 Começando com <b>Data Science</b>
 - 2 Modelos de <b>Data Science</b>
 - 3 Visualização de <b>Dados</b>
